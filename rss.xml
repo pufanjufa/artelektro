@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>ARTelektro reference</title>
+  <link>https://artelektro.github.io/artelektro/reference.html</link>
+  <description>Završeni novi objekti</description>
+  <item>
+    <title>Crown Plaza</title>
+    <link>https://artelektro.github.io/artelektro/reference.html</link>
+    <description>Završeno renoviranje hotela Crown Plaze</description>
+  </item>
+  <item>
+    <title>Beko</title>
+    <link>https://artelektro.github.io/artelektro/reference.html</link>
+    <description>Završeno renoviranje objekta Beko</description>
+  </item>
+</channel>
+
+</rss>
